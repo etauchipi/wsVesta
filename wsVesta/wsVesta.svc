@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="wsVesta.Service1" CodeBehind="wsVesta.svc.vb" %>
